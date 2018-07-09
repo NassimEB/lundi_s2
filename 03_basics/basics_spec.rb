@@ -42,7 +42,7 @@ describe 'crazy stuff on arrays' do
   # The magic_array function takes an array of number or an array of
   # array of number as parameter and return the same array :
   # - flattened (i.e. no more arrays in array)
-  # - sorted
+  # - reversed
   # - with each number multiplicated by 2
   # - with each multiple of 3 removed
   # - with each number duplicate removed (any number should appear only once)
@@ -57,3 +57,4 @@ describe 'crazy stuff on arrays' do
       .to eq([2, 4, 14, 16, 64])
   end
 end
+ 

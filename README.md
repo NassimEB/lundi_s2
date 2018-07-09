@@ -1,6 +1,8 @@
 Test First Ruby -- RSpec 3 Edition
 ==========
 
+fait en pair programming avec ma bitch brice
+
 ### Set up instructions
 
 1. Fork this repo
